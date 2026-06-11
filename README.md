@@ -112,7 +112,7 @@ Driver-Drowsiness-Detection-System/
 
 ## Author
 
-**Avreet **
+**Avreet**
 
 Computer Science Engineering Student
 
